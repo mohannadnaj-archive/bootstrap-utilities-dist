@@ -1,0 +1,15 @@
+{
+    "name": "bootstrap-utilities",
+    "version": "v4.0.0-beta.2",
+    "main": "bootstrap-utilities.css",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MohannadNaj/bootstrap-utilities-dist.git"
+    },
+    "homepage": "https://github.com/MohannadNaj/bootstrap-utilities-dist",
+    "license": "MIT",
+    "style": "bootstrap-utilities.css",
+    "description": "Standalone build of Bootstrap 4 Utilities  without bootstrap. (Distribution)",
+    "dependencies": {},
+    "devDependencies": {}
+}
