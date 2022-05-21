@@ -18,6 +18,8 @@ https://unpkg.com/bootstrap@5.2.0-beta1/dist/css/bootstrap-utilities.min.css
 ```
 File size: 55.08 KB
 
+Ref: https://github.com/twbs/bootstrap/issues/29026
+
 ----------
 # Bootstrap Utilities
 
